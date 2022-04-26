@@ -1,0 +1,113 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,700;1,700&family=Playfair+Display&family=Roboto&display=swap');
+
+body{
+  background-color:white;
+  font-family: 'Roboto';
+  margin-left:100px;
+  margin-right:100px;
+}
+
+#click{
+  font-size:20px;
+  font-family: "Roboto";
+  margin-left:20px;
+  margin-bottom: 30px;
+}
+a{
+  font-family: "Roboto";
+  font-size:20px;
+  color:black;
+  background-color:#97d7fc;
+  border: 3px #97d7fc solid;
+  border-radius: 20px;
+  padding:5px;
+  margin:10px;
+  margin-top:40px;
+  margin-bottom:40px;
+  text-decoration: none;
+}
+
+p{
+  margin-left:200px;
+}
+
+h2{
+  margin-top:100px;
+  font-size:40px;
+  padding-top:30px;
+}
+
+nav{
+  margin-top:30px;
+}
+
+#box{
+  background-color:#fff782;
+  padding: 30px;
+  padding-top:0px;
+  border-radius:30px;
+  margin-right:200px;
+  margin-left:200px;
+}
+
+a:visited{
+  color:black;
+}
+
+h1{
+  font-family: "Roboto";
+  font-size:60px;
+  text-align: center;
+}
+
+img{
+  margin-left:300px;
+  border-radius:30px;
+}
+
+#img1{
+  width:320px;
+  height:200px;
+}
+
+#img2{
+  height:200px;
+  width:320px;
+}
+
+#img3{
+  height:200px;
+  width:320px;
+}
+
+#img4{
+  height:200px;
+  width:320px;
+}
+
+#img5{
+  height:200px;
+  width:320px;
+}
+
+#img6{
+  height:200px;
+  width:320px;
+}
+
+#img7{
+  height:200px;
+  width:320px;
+}
+
+#img8{
+  height:200px;
+  width:320px;
+}
+
+#img9{
+  height:200px;
+  width:320px;
+    margin-left:450px;
+}
